@@ -6,7 +6,7 @@ App Screenshot
 A simple Android app that fetches and displays the most popular articles from The New York Times API. This project is built using Kotlin and follows the MVVM architecture.
 
 Features
-View a list of popular articles.
+View a list of popular articles.\n
 Click on an article to view its details.
 
 Getting Started
